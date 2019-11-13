@@ -4,6 +4,6 @@ provider "azurerm" {
 }
 
 module "optimum-scf-foundation" {
-  source = "./mobules/managetment-groups/optimum-scf-foundation/"
+  source = "./modules/managetment-groups/optimum-scf-foundation/"
 }
     
